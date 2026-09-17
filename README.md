@@ -66,7 +66,7 @@ A cutting-edge AI-powered medical assistant that leverages multiple specialized 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/kotaamulyareddy-sys/Multi-Agentic-Medical-Assistant.git
+git clone https://github.com/kotaamulyareddy/Multi-Agentic-Medical-Assistant.git
 cd Multi-Agentic-Medical-Assistant
 ```
 
